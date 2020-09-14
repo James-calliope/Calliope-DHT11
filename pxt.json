@@ -1,0 +1,20 @@
+{
+    "name": "Dht11温湿度传感器",
+    "version": "0.0.3",
+    "description": "DHT11温湿度传感器扩展库汉化版",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "dht11.ts",
+        "_locales/de/pxt-dht11-strings.json"
+    ],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "Calliope mini & microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

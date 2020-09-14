@@ -1,0 +1,5 @@
+{
+    "DHT11.setPin|block": "DHT11 an Pin %myPin",
+    "DHT11.humidity|block": "prozentuale Luftfeuchtigkeit",
+    "DHT11.temperature|block": "Temperatur in ˚C"
+}
